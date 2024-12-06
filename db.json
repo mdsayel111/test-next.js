@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Exploring the Cosmos",
+      "description": "Embark on a cosmic journey as we delve into the mysteries of the universe, uncovering celestial wonders and unraveling the secrets of distant galaxies.",
+      "likeCount": 150
+    },
+    {
+      "id": 2,
+      "title": "The Art of Coding",
+      "description": "Immerse yourself in the world of programming, where logic meets creativity. Discover the beauty of elegant code, solving problems, and building innovative solutions.",
+      "likeCount": 230
+    },
+    {
+      "id": 3,
+      "title": "Culinary Adventures",
+      "description": "Embark on a gastronomic odyssey, exploring diverse cuisines and savoring the rich tapestry of flavors. Join us in a culinary journey that tantalizes the taste buds.",
+      "likeCount": 120
+    },
+    {
+      "id": 4,
+      "title": "Mindful Living",
+      "description": "Embrace the philosophy of mindful living, finding balance in a hectic world. Learn techniques for stress relief, meditation, and fostering a positive mindset.",
+      "likeCount": 300
+    },
+    {
+      "id": 5,
+      "title": "Innovations in Technology",
+      "description": "Dive into the latest technological breakthroughs, from AI and robotics to sustainable innovations. Explore the future of technology and its impact on society.",
+      "likeCount": 180
+    },
+    {
+      "id": 6,
+      "title": "Epic Fantasy Worlds",
+      "description": "Immerse yourself in fantastical realms, filled with mythical creatures and epic adventures. Journey through enchanted lands, encountering magic and legendary quests.",
+      "likeCount": 250
+    }
+  ]
+}
